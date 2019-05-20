@@ -1,0 +1,17 @@
+{
+	"name" : "qozido-img-processor-sdk-php/qozido-img-processor-sdk-php",
+	"description" : "Official Qozido Image Processor SDK",
+	"license" : "MIT",
+	"homepage" : "https://qozido.com",
+	"authors" : [{
+			"name" : "Qozido Development Team",
+			"email" : "support@qozido.com",
+			"homepage" : "https://www.qozido.com"
+		}
+	],
+	"autoload" : {
+		"psr-0" : {
+			"Qozido" : "lib"
+		}
+	}
+}
